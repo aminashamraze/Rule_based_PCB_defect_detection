@@ -124,3 +124,5 @@ rectangle
 Copy images [ both temp and ref] in the project folder in the matlab. Then, use console to call the function script, using example command;
 >> processPair(fullfile(pwd, 'images', '92000001_temp.jpg'), fullfile(pwd, 'images', '92000001_test.jpg'),1)
 Replace images with the folder name that contains images.
+
+The complete dataset was taken from https://github.com/tangsanli5201/DeepPCB.
